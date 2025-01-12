@@ -2,7 +2,14 @@
 layout: page
 permalink: /teaching/
 title: About
-description: I am a current high schooler with JV basketball experience. When I first started high school, I struggled with effectively maximizing the time I had during my workouts. I've seen many others struggle with creating an efficient workout as well. As a result, I decided to create this website in order to help others who want to learn to workout effectively, instead of wasting countless hours while not getting better at all. On this website, you will find various resources that will help you reach your goal in your basketball journey. In addition, I am also willing to create FREE personalized workout plans related to your specific situation. Every player is in a different situation. For instance, one may be on the shorter side and struggles with getting playing time on the court, because they can't fit a role. To receive a FREE personalized workout plan made just for you, click the workouts tab to get started. Lastly, for those of you struggling with the mental aspects of the game, check out the motivation tab.
+description: I’m a high schooler with JV basketball experience, and when I first started high school, I had trouble making the most of my workout time. I would workout for hours but wouldn't see any improvement during team practices and games. I realized many other players face the same challenge—spending hours training without seeing real improvement. That’s why I created this website: to help players workout more efficiently and get better results from the work they put in.
+
+On this website, you will find a variety of resources designed to help you reach your basketball goals more efficiently. From basketball drills to conditioning and strength training workouts, everything is designed to maximize your progress without wasting time.
+
+In addition, I offer FREE personalized workout plans tailored to your unique situation. Whether you're looking to get more playing time, develop specific skills, or overcome personal challenges like size or athletic ability, I’ll help you design a plan that fits your personal needs. To get started, just visit the Workouts tab for more info.
+
+For those struggling with the mental aspects of the game, check out the motivation tab.
+
 nav: true
 nav_order: 1
 ---
