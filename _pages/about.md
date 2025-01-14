@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Workout the RIGHT way</a>
 profile:
   align: right
-  image: prof_pic.jpg
+  image: <img src="https://img-wixmp-fe53c9ff592a4da924211f23.wixmp.com/users/ff7b97cd-3cc3-4b84-b81b-b6ac441b977f/design-previews/607bd667-785b-4578-9773-e3555099e23e/1736834698758-sample.jpeg?filename=Preview.png" alt="Logo"/>
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
