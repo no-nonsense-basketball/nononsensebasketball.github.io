@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: Home
 title: Home
 permalink: /
 subtitle: <a href='#'>Workout the RIGHT way</a>
