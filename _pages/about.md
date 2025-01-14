@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Learn to Workout the RIGHT way, Experience Results</a>
+subtitle: <a href='#'>Workout the RIGHT way</a>
 profile:
   align: right
   image: prof_pic.jpg
