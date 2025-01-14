@@ -1,9 +1,8 @@
 ---
-layout: Home
+layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: <a href='#'>Learn to Workout the RIGHT way, Experience Results</a>
 profile:
   align: right
   image: prof_pic.jpg
